@@ -1,0 +1,12 @@
+com\example\roomwebapp\controllers\StaffRestController.class
+com\example\roomwebapp\service\RoomService.class
+com\example\roomwebapp\service\StaffService.class
+com\example\roomwebapp\RoomWebAppApplication.class
+com\example\roomwebapp\data\RoomRepository.class
+com\example\roomwebapp\models\Room.class
+com\example\roomwebapp\models\StaffMember.class
+com\example\roomwebapp\models\Position$1.class
+com\example\roomwebapp\controllers\RoomRestController.class
+com\example\roomwebapp\controllers\RoomController.class
+com\example\roomwebapp\controllers\StaffController.class
+com\example\roomwebapp\models\Position.class
